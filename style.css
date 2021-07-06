@@ -2,6 +2,8 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     margin: 0px;
+    padding-left: 10%;
+    
 }
 h1{
     font-size: 40px;
