@@ -16,6 +16,9 @@ span{
     border-radius: 5px;
     padding-top: 5%;
 }
-.img1{
-    size: 30px;
+.width{
+    width: 70%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding top: 10%;
 }
