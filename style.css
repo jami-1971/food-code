@@ -2,7 +2,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: black;
     margin: 0px;
-    padding-left: 10%;
+
     
 }
 h1{
@@ -16,8 +16,8 @@ span{
 }
 .flexible-container{
     display: flex;
-    padding-left: 15%;
-    padding-right: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
     padding-top: 10%;
 }
 .link-button{
@@ -37,6 +37,6 @@ span{
     
 }
 .width img{
-    width: 80%;
+    width: 50%;
     
 }
