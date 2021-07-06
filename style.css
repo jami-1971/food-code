@@ -1,0 +1,18 @@
+body{
+    color: black;
+}
+span{
+    color: darkmagenta;
+}
+.flexible-container{
+    display: flex;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 10%;
+}
+.link-button{
+    background-color: darkorange;
+    color: darkred;
+    border-radius: 5px;
+    padding-top: 5%;
+}
