@@ -4,7 +4,7 @@ body{
     margin: 0px;
 }
 h1{
-    font-size: 60px;
+    font-size: 40px;
 }
 p{
     font-size: 40px;
@@ -24,15 +24,17 @@ span{
     border-radius: 10px;
     padding-top: 10%%;
     background-image: linear-gradient(orange green);
+    
 
 }
 .width{
-    width: 70%;
+    width: 50%;
     padding-left: 10%;
     padding-right: 10%;
     padding top: 10%;
+    
 }
 .width img{
     width: 80%;
-    size: 100px;
+    
 }
